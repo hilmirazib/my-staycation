@@ -1,0 +1,4 @@
+node versionnya v14.18.1
+npm versionnya v6.14.15
+
+npm install react-router-dom node-sass
